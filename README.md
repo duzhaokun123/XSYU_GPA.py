@@ -6,7 +6,7 @@ Python 写的 西安石油大学(XSYU)绩点计算器
 ![formula](formula.png)
 
 ## 演示
-![](a.mkv)
+![](a.webm)
 
 ## thanks
 
