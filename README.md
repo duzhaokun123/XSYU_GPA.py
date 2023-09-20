@@ -6,7 +6,7 @@ Python 写的 西安石油大学(XSYU)绩点计算器
 ![formula](formula.png)
 
 ## 演示
-![](a.webm)
+<video src="https://github.com/duzhaokun123/XSYU_GPA.py/raw/main/a.webm" controls="controls" width="100%" height="auto"></video>
 
 ## thanks
 
